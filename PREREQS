@@ -1,0 +1,27 @@
+# Prerequisite skills
+
+* python
+  * SOLID foundation in python scripting
+  * comfortable exploring new libraries unassisted
+  * inspecting objects
+* bash
+  * environment variables
+  * ssh
+  * bash scripting
+  * nohup
+* git
+  * commit
+  * branches
+  * pull requests
+* machine learning basics
+  * train/dev/test sets
+  * feature extraction
+  * cross-validation
+  * precision and recall
+
+## Equipment
+
+* personal laptop highly preferred
+  * VirtualBox
+  * Docker (optional)
+* I will provide a server for Neural MT
