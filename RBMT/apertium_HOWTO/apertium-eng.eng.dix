@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+
+<alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
+
+<sdefs>
+   <sdef n="n"/>
+   <sdef n="sg"/>
+   <sdef n="pl"/>
+   <sdef n="vblex"/>
+   <sdef n="pri"/>
+   <sdef n="p1"/>
+   <sdef n="prn"/>
+   <sdef n="subj"/>
+</sdefs>
+
+<pardefs>
+
+	<pardef n="gramophone__n">
+	   <e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
+	   <e><p><l>s</l><r><s n="n"/><s n="pl"/></r></p></e>
+	</pardef>
+
+	<pardef n="dictionar/y__n">
+	   <e><p><l>y</l><r>y<s n="n"/><s n="sg"/></r></p></e>
+	   <e><p><l>ies</l><r>y<s n="n"/><s n="pl"/></r></p></e>
+	</pardef>
+
+	<pardef n="s/ee__vblex">
+	   <e><p><l>ee</l><r>ee<s n="vblex"/><s n="pri"/></r></p></e>
+	</pardef>
+
+	<pardef n="prsubj__prn">
+	   <e><p><l>I</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="sg"/></r></p></e>
+	</pardef>
+
+</pardefs>
+
+<section id="main" type="standard">
+	<e lm="gramophone"><i>gramophone</i><par n="gramophone__n"/></e>
+	<e lm="record player"><i>record<b/>player</i><par n="gramophone__n"/></e>
+	<e lm="dictionary"><i>dictionar</i><par n="dictionar/y__n"/></e>
+	<e lm="see"><i>s</i><par n="s/ee__vblex"/></e>
+	<e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
+</section>
+
+</dictionary>
+

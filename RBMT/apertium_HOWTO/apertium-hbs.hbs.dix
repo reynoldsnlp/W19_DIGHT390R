@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+
+<alphabet>ABCČĆDDžĐEFGHIJKLLjMNNjOPRSŠTUVZŽabcčćddžđefghijklljmnnjoprsštuvzž</alphabet>
+
+<sdefs>
+   <sdef n="n"/>
+   <sdef n="sg"/>
+   <sdef n="pl"/>
+   <sdef n="vblex"/>
+   <sdef n="p1"/>
+   <sdef n="pri"/>
+</sdefs>
+
+<pardefs>
+	<pardef n="e_je__yat">
+	  <e>
+	    <p>
+		<l>e</l>
+		<r>e</r>
+	    </p>
+	  </e>
+	  <e>
+	    <p>
+		<l>je</l>
+		<r>e</r>
+	    </p>
+	  </e>
+	</pardef>
+
+	<pardef n="gramofon__n">
+	   <e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
+	   <e><p><l>i</l><r><s n="n"/><s n="pl"/></r></p></e>
+	   <e><p><l>e</l><r><s n="n"/><s n="pl"/></r></p></e>
+	</pardef>
+
+	<pardef n="rečni/k__n">
+	   <e><p><l>k</l><r>k<s n="n"/><s n="sg"/></r></p></e>
+	   <e><p><l>ci</l><r>k<s n="n"/><s n="pl"/></r></p></e>
+	   <e><p><l>ke</l><r>k<s n="n"/><s n="pl"/></r></p></e>
+	</pardef>
+
+	<pardef n="vid/eti__vblex">
+	   <e><p><l>im</l><r>eti<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+	   <e><p><l>imo</l><r>eti<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+	</pardef>
+</pardefs>
+
+<section id="main" type="standard">
+	<e lm="gramofon"><i>gramofon</i><par n="gramofon__n"/></e>
+	<e lm="videti"><i>vid</i><par n="vid/eti__vblex"/></e>
+	<e lm="rečnik"><i>r</i><par n="e_je__yat"/><i>čni</i><par n="rečni/k__n"/></e>
+</section>
+
+</dictionary>
+
