@@ -2,11 +2,11 @@
 
 #### Wed, 09 Jan
 
-* Read [wikipedia article about Rule-Based Machine Translation](https://en.wikipedia.org/wiki/Rule-based_machine_translation)
 * Spend at least 2 hours working on [this tutorial](http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO)
 
 #### Mon, 14 Jan
 
+* Read [wikipedia article about Rule-Based Machine Translation](https://en.wikipedia.org/wiki/Rule-based_machine_translation)
 * Read [wikipedia article about Transfer-based MT](https://en.wikipedia.org/wiki/Transfer-based_machine_translation)
 * Finish [this tutorial](http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO)
   * Complete the implementation of `dictionary<-->recnik`
