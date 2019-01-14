@@ -1,6 +1,6 @@
 # Quiz for Wikipedia article on Rule-Based Machine Translation
 
-[Wikipedia RMBT](https://en.wikipedia.org/wiki/Rule-based_machine_translation)
+[Wikipedia RBMT](https://en.wikipedia.org/wiki/Rule-based_machine_translation)
 
 1. The article lists three types of RBMT. Which of the following is NOT in that list?
    * Transfer RBMT
