@@ -34,6 +34,8 @@
 
 	<def-attr n="pers">
 	   <attr-item tags="p1"/>
+	   <attr-item tags="p2"/>
+	   <attr-item tags="p3"/>
 	</def-attr>
 
 	<def-attr n="a_verb">
@@ -103,6 +105,8 @@
 		 <clip pos="1" side="tl" part="lem"/>
 		 <clip pos="1" side="tl" part="a_verb"/>
 		 <clip pos="1" side="tl" part="temps"/>
+		 <clip pos="1" side="tl" part="pers"/>
+		 <clip pos="1" side="tl" part="nbr"/>
 	       </lu>
 	     </out>
 	   </action>

@@ -30,3 +30,7 @@ hbs-eng.t1x.bin : apertium-hbs-eng.hbs-eng.t1x
 .PHONY : clean
 clean :
 	-rm *.bin
+
+.PHONY : check
+check :
+	bash tests.sh

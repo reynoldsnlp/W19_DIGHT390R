@@ -10,6 +10,8 @@
    <sdef n="vblex"/>
    <sdef n="pri"/>
    <sdef n="p1"/>
+   <sdef n="p2"/>
+   <sdef n="p3"/>
    <sdef n="prn"/>
    <sdef n="subj"/>
 </sdefs>
@@ -27,11 +29,21 @@
 	</pardef>
 
 	<pardef n="s/ee__vblex">
-	   <e><p><l>ee</l><r>ee<s n="vblex"/><s n="pri"/></r></p></e>
+	   <e><p><l>ee</l><r>ee<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+	   <e><p><l>ee</l><r>ee<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+	   <e><p><l>ees</l><r>ee<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+	   <e><p><l>ee</l><r>ee<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+	   <e><p><l>ee</l><r>ee<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+	   <e><p><l>ee</l><r>ee<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 	</pardef>
 
 	<pardef n="prsubj__prn">
 	   <e><p><l>I</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="sg"/></r></p></e>
+	   <e><p><l>you</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="sg"/></r></p></e>
+	   <e><p><l>it</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="sg"/></r></p></e>
+	   <e><p><l>we</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="pl"/></r></p></e>
+	   <e><p><l>you</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="pl"/></r></p></e>
+	   <e><p><l>they</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="pl"/></r></p></e>
 	</pardef>
 
 </pardefs>

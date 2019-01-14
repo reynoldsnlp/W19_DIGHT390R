@@ -16,3 +16,10 @@
   * You should know at least one of the languages.
   * You can choose whether to use closely-related languages (easier) or not.
   * Ideally, at least one of the languages will already have digital dictionaries.
+
+#### Wed, 16 Jan
+
+* Read [wikipedia article about Interlingual MT](https://en.wikipedia.org/wiki/Interlingual_machine_translation)
+* Read [wikipedia article about UNL](https://en.wikipedia.org/wiki/Universal_Networking_Language)
+* Read [wikipedia article about Pivot language](https://en.wikipedia.org/wiki/Pivot_language)
+* Spend at least 90 mins working on your chosen language pair
