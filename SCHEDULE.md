@@ -23,3 +23,9 @@
 * Read [wikipedia article about UNL](https://en.wikipedia.org/wiki/Universal_Networking_Language)
 * Read [wikipedia article about Pivot language](https://en.wikipedia.org/wiki/Pivot_language)
 * Spend at least 90 mins working on your chosen language pair
+
+#### Wed, 23 Jan
+
+* Create a github repository for your apertium language pair.
+  * To the extent that it is legal, all resources for your pair should be copied/linked in your repository. Create a README.md file to explain how to set up and use your translation system.
+* Spend at least 4 hours working on your pair.
