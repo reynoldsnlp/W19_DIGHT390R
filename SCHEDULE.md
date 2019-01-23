@@ -33,4 +33,9 @@
 #### Mon, 28 Jan
 
 * Read [BLEU at your own risk](https://medium.com/@rtatman/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213)
+  * Think about which evaluation metric is most appropriate for your language pair
 * Keep working on your language pair (commit often and push to your repo)
+
+#### Wed, 30 Jan
+
+* Finish your toy apertium translation model
