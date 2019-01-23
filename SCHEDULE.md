@@ -29,3 +29,8 @@
 * Create a github repository for your apertium language pair.
   * To the extent that it is legal, all resources for your pair should be copied/linked in your repository. Create a README.md file to explain how to set up and use your translation system.
 * Spend at least 4 hours working on your pair.
+
+#### Mon, 28 Jan
+
+* Read [BLEU at your own risk](https://medium.com/@rtatman/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213)
+* Keep working on your language pair (commit often and push to your repo)
