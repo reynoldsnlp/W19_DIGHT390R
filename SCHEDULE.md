@@ -39,3 +39,8 @@
 #### Wed, 30 Jan
 
 * Finish your toy apertium translation model
+   * I should be able to `make` to compile the binaries, and then run `bash tests.sh` and see your output
+   * I recommend setting up `tests.sh` the sooner the better. That way you can check your own work and add more test sentences as you go.
+      * Copy `tests.sh` from my apertium_HOWTO solution.
+      * Replace the test sentences with your own.
+      * Change the filenames in the long shell command to match the filenames in your project.
