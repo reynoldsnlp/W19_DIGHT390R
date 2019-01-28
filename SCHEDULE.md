@@ -2,6 +2,9 @@
 
 #### Wed, 09 Jan
 
+* NEXTTIME: XML tutorial
+* NEXTTIME: basic overview of Croatian verbs and nouns (NOM/ACC)
+* NEXTTIME: start by doing tutorial up through analyzer, show how analyzers work, then move on
 * Spend at least 2 hours working on [this tutorial](http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO)
 
 #### Mon, 14 Jan
