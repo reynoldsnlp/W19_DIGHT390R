@@ -6,6 +6,7 @@
 * NEXTTIME: basic overview of Croatian verbs and nouns (NOM/ACC)
 * NEXTTIME: start by doing tutorial up through analyzer, show how analyzers work, then move on
 * Spend at least 2 hours working on [this tutorial](http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO)
+* NEXTTIME: include [the transfer rule intro](http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules), too.
 
 #### Mon, 14 Jan
 
@@ -52,3 +53,8 @@
 
 * REALLY finish your toy apertium translation model
 * Install my [MT Virtual Machine](http://reynoldsnlp.com/Lubuntu_MT.ova) in VirtualBox
+
+#### Wed, 06 Feb
+
+* Read [Wikipedia: Statistical machine translation](https://en.wikipedia.org/wiki/Statistical_machine_translation)
+* Complete [this tutorial for a baseline system](http://www.statmt.org/moses/?n=Moses.Baseline)
