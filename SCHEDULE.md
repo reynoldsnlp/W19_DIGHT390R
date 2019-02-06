@@ -58,3 +58,8 @@
 
 * Read [Wikipedia: Statistical machine translation](https://en.wikipedia.org/wiki/Statistical_machine_translation)
 * Complete [this tutorial for a baseline system](http://www.statmt.org/moses/?n=Moses.Baseline)
+
+#### Mon, 11 Feb
+
+* Read [Moses overview page](http://www.statmt.org/moses/?n=Moses.Overview)
+* Finish the baseline system tutorial.
