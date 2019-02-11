@@ -22,7 +22,7 @@
 
 1. What does _fertility_ mean in the context of word-based translation?
   
-1. Why is fertility a problem from word-based translation?
+1. Why is fertility a problem for word-based translation?
 
 1. True / False: In the context of phrase-based translation, relying on theoretical linguistic contructs (such as NP or VP) improves translation outcomes.
 
