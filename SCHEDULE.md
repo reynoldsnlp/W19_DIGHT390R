@@ -63,3 +63,7 @@
 
 * Read [Moses overview page](http://www.statmt.org/moses/?n=Moses.Overview)
 * Finish the baseline system tutorial.
+
+#### Tue, 19 Feb
+
+* Finish Moses [phrase-based tutorial](http://www.statmt.org/moses/?n=Moses.Tutorial)
