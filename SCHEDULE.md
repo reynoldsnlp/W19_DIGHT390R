@@ -76,4 +76,5 @@
 
 #### Mon, 25 Feb... and beyond!
 
-* Continue course.fast.ai until you're done
+* Finish Lesson 1 of course.fast.ai
+* Quiz on Lesson 1
