@@ -67,3 +67,13 @@
 #### Tue, 19 Feb
 
 * Finish Moses [phrase-based tutorial](http://www.statmt.org/moses/?n=Moses.Tutorial)
+
+#### Wed, 20 Feb
+
+* Start course.fast.ai
+  * Set up Kaggle Kernels account
+  * Watch videos and follow instructions
+
+#### Mon, 25 Feb... and beyond!
+
+* Continue course.fast.ai until you're done
