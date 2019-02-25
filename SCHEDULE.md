@@ -74,7 +74,22 @@
   * Set up Kaggle Kernels account
   * Watch videos and follow instructions
 
-#### Mon, 25 Feb... and beyond!
+#### Mon, 25 Feb
 
-* Finish Lesson 1 of course.fast.ai
+* Finish [lesson 1](https://course.fast.ai/videos/?lesson=1) of course.fast.ai
 * Quiz on Lesson 1
+
+#### Wed, 27 Feb
+
+* Finish [lesson 2](https://course.fast.ai/videos/?lesson=2) on course.fast.ai
+* Quiz on Lesson 2
+
+#### Mon, 4 Mar
+
+* Finish [lesson 3](https://course.fast.ai/videos/?lesson=3) on course.fast.ai
+* Quiz on Lesson 3
+
+#### Wed, 6 Mar
+
+* Finish [lesson 4](https://course.fast.ai/videos/?lesson=4) on course.fast.ai
+* Quiz on Lesson 4
