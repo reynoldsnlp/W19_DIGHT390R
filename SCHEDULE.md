@@ -86,10 +86,15 @@
 
 #### Mon, 4 Mar
 
+* Review lesson 1 and lesson 2
+* Be prepared to explain the use of tensors to compute regressions.
+
+#### Wed, 6 Mar
+
 * Finish [lesson 3](https://course.fast.ai/videos/?lesson=3) on course.fast.ai
 * Quiz on Lesson 3
 
-#### Wed, 6 Mar
+#### Mon, 11 Mar
 
 * Finish [lesson 4](https://course.fast.ai/videos/?lesson=4) on course.fast.ai
 * Quiz on Lesson 4
