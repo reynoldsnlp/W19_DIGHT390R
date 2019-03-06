@@ -33,48 +33,48 @@ np_c = np.array(c)
 
 1. Write a slice that will reverse the all of the objects above. Can you reverse them in multiple dimensions? For example, can you get the `b`s and `c`s to look like the following?
 
-```
-[[9, 8, 7],
- [6, 5, 4],
- [3, 2, 1]]
-
-
-[[[11, 10,  9],
-  [10,  9,  8],
-  [ 9,  8,  7]],
-
- [[ 8,  7,  6],
-  [ 7,  6,  5],
-  [ 6,  5,  4]],
-
- [[ 5,  4,  3],
-  [ 4,  3,  2],
-  [ 3,  2,  1]]]
-```
+    ```
+    [[9, 8, 7],
+     [6, 5, 4],
+     [3, 2, 1]]
+    
+    
+    [[[11, 10,  9],
+      [10,  9,  8],
+      [ 9,  8,  7]],
+    
+     [[ 8,  7,  6],
+      [ 7,  6,  5],
+      [ 6,  5,  4]],
+    
+     [[ 5,  4,  3],
+      [ 4,  3,  2],
+      [ 3,  2,  1]]]
+    ```
 
 1. Write a slice (use + and -) that will return the following view from `np_b`:
 
-```python
-array([[2, 3],
-       [5, 6],
-       [8, 9]])
-```
+    ```python
+    array([[2, 3],
+           [5, 6],
+           [8, 9]])
+    ```
 
 1. Write a slice that will add a dimension (or axis) to `np_b`, so that it looks like the following view:
 
-```
-array([[[1],
-        [2],
-        [3]],
-
-       [[4],
-        [5],
-        [6]],
-
-       [[7],
-        [8],
-        [9]]])
-```
+    ```
+    array([[[1],
+            [2],
+            [3]],
+    
+           [[4],
+            [5],
+            [6]],
+    
+           [[7],
+            [8],
+            [9]]])
+    ```
 
 1. Use integer array indexing (try + and -) to get `array([3, 8])` out of `np_b`.
 
@@ -82,10 +82,10 @@ array([[[1],
 
 1. Use integer array indexing (try + and -) to get the following out of `np_b`.
 
-```
-array([[1, 3],
-       [7, 9]])
-```
+    ```
+    array([[1, 3],
+           [7, 9]])
+    ```
 
 1. Use boolean array indexing to get `array([2, 5])` out of `np_b`. You'll have to write the boolean array manually.
 
@@ -93,7 +93,7 @@ array([[1, 3],
 
 1. What does the numpy array method `flat` do? (What does the following code print?)
 
-```
-for x in np_b.flat:
-  print(x)
-```
+    ```
+    for x in np_b.flat:
+      print(x)
+    ```
