@@ -93,11 +93,13 @@
 
 * Read [Documentation on numpy indexing](https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html)
 * Quiz on indexing
-* Finish [lesson 3](https://course.fast.ai/videos/?lesson=3) on course.fast.ai
-* Quiz on Lesson 3, as time allows (probably not all of it)
 
 #### Mon, 11 Mar
 
 * Quiz on Lesson 3, if not finished last time
+* Finish [lesson 3](https://course.fast.ai/videos/?lesson=3) on course.fast.ai
+
+#### Wed, 13 Mar
+
 * Finish [lesson 4](https://course.fast.ai/videos/?lesson=4) on course.fast.ai
 * Quiz on Lesson 4
