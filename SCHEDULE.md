@@ -103,3 +103,12 @@
 
 * Finish [lesson 4](https://course.fast.ai/videos/?lesson=4) on course.fast.ai
 * Quiz on Lesson 4
+
+#### Mon, 18 Mar
+
+* CLASS CANCELLED
+
+#### Wed, 20 Mar
+
+* Finish [lesson 5](https://course.fast.ai/videos/?lesson=5) on course.fast.ai
+* Quiz on Lesson 5
