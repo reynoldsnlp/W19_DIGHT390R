@@ -1,4 +1,4 @@
-# Gradd quiz for FastAI lesson 4
+# Graded quiz for FastAI lesson 4
 
 [fastai lesson 4](https://course.fast.ai/videos/?lesson=4)
 
@@ -9,4 +9,3 @@
 1. True / False : Until recently, the prevailing application of deep learning was on tabular data.
 
 1. True / False : Jeremy recommends VS Code as one of the best text editors.
-
