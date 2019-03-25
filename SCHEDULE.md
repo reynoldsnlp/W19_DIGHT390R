@@ -112,3 +112,13 @@
 
 * Finish [lesson 5](https://course.fast.ai/videos/?lesson=5) on course.fast.ai
 * Quiz on Lesson 5
+
+#### Mon, 25 Mar
+
+* Finish [lesson 6](https://course.fast.ai/videos/?lesson=6) on course.fast.ai
+* Quiz on Lesson 6
+
+#### Wed, 27 Mar
+
+* Watch [lesson 11](http://course18.fast.ai/lessons/lesson11.html)
+* Quiz on Lesson 11
