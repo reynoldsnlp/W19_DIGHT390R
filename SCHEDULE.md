@@ -120,5 +120,6 @@
 
 #### Wed, 27 Mar
 
+* (optional) Watch [lesson 7](https://course.fast.ai/videos/?lesson=7) on course.fast.ai
 * Watch [lesson 11](http://course18.fast.ai/lessons/lesson11.html)
 * Quiz on Lesson 11
