@@ -123,3 +123,62 @@
 * (optional) Watch [lesson 7](https://course.fast.ai/videos/?lesson=7) on course.fast.ai
 * Watch [lesson 11](http://course18.fast.ai/lessons/lesson11.html)
 * Quiz on Lesson 11
+
+#### Mon, 1 Apr
+
+* Watch [visual tutorial of neural seq2seq](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+* Proposal for final project/paper
+    * At least one page
+    * You will need to do some significant planning to be sure you know what your proposal entails.
+    * If `kaggle` or `CoLab` do not have what you need, I can help set up `hikari` to fit your purposes. (NB `hikari` does NOT have GPUs, so NMT will take a long time to train)
+
+#### Wed, 3 Apr
+
+* TBD
+
+### Final Project / Paper
+
+* Whether you choose to do a project or a paper, you will present your work to the class during our scheduled final exam.
+* Presentations should be ~10 mins.
+
+#### Project
+
+* Build your own MT model
+* Evaluate your model using an appropriate metric, such as BLEU (or something better?)
+
+* Tools to consider
+    * Apertium
+        * http://wiki.apertium.org/wiki/Main_Page
+    * fastai/pytorch:
+        * https://github.com/fastai/fastai/blob/master/courses/dl2/translate.ipynb
+        * https://github.com/fastai/fastai_docs/blob/master/dev_course/dl2/translation_transformer.ipynb
+    * `fairseq`:
+        * https://github.com/pytorch/fairseq/tree/master/examples/translation
+    * OpenNMT:
+        * http://opennmt.net/OpenNMT-py/quickstart.html
+
+* If you choose to use a high-level tool, such as `fairseq`, then you will be expected to do more than just create a translation model.
+    * Implement it in a webapp or mobile app?
+    * Perform some kind of experiment, where you systematically vary your training data or setup to see how the resulting models differ.
+
+#### Paper
+
+* Write a 10-12 page paper about an MT topic that is interesting to you.
+    * Describe the state of the art with regard to modern MT
+    * Must be new work (not recycled from a previous class/project)
+* Possible topics
+    * MT Evaluation (BLEU, etc.)
+    * Any component of modern MT systems
+        * Rule-based
+            * Finite-state Transducer morphological analyzers
+            * Constraint Grammar
+            * Etc.
+        * Neural MT
+            * Word vectors / word embeddings (`word2vec`, `GloVe`, etc.)
+            * Language models
+            * LSTMs, etc.
+            * Encoder/Decoder
+            * Attention
+    * Approaches not covered in this course
+        * Unsupervised NMT (who knew?)
+        * Transfer learning: Semi-supervised Sequence Learning, Generative Pre-Training, ElMo, ULMFit, BERT, etc. 
