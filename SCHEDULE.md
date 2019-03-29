@@ -152,6 +152,8 @@
     * fastai/pytorch:
         * https://github.com/fastai/fastai/blob/master/courses/dl2/translate.ipynb
         * https://github.com/fastai/fastai_docs/blob/master/dev_course/dl2/translation_transformer.ipynb
+    * `quick-nlp`
+        * https://github.com/outcastofmusic/quick-nlp
     * `fairseq`:
         * https://github.com/pytorch/fairseq/tree/master/examples/translation
     * OpenNMT:
