@@ -134,7 +134,8 @@
 
 #### Wed, 3 Apr
 
-* TBD
+* Unsupervised SMT/NMT
+* Work on projects
 
 ### Final Project / Paper
 
