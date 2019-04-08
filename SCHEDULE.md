@@ -137,6 +137,10 @@
 * Unsupervised SMT/NMT
 * Work on projects
 
+#### Mon, 8 Apr
+
+* Work on projects
+
 ### Final Project / Paper
 
 * Whether you choose to do a project or a paper, you will present your work to the class during our scheduled final exam.
