@@ -141,8 +141,21 @@
 
 * Work on projects
 
+#### Wed, 10 Apr
+
+* Work on projects
+
+#### Mon, 15 Apr
+
+* Work on projects
+
+#### Mon, 17 Apr
+
+* Work on projects
+
 ### Final Project / Paper
 
+* 24 Apr, 3-6pm, B013 JFSB
 * Whether you choose to do a project or a paper, you will present your work to the class during our scheduled final exam.
 * Presentations should be ~10 mins.
 
